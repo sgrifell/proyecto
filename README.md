@@ -10,3 +10,6 @@ Funcionamiento de fetch vs. pull: https://www.git-tower.com/learn/git/faq/differ
 Comando hist no me funciona en consola
 Los iconos de los ReadMe son distintos (existe uno único original?)
 ¿Cómo se borra un fichero?
+
+[SGO]
+Probando el misterio del pull
